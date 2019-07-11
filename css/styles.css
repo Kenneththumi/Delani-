@@ -173,3 +173,15 @@ textarea{
         padding-bottom: 37px;
     }
 }
+
+@media(min-width:1920px){
+    .click-icon {
+        padding-top: 124px;
+    }
+    .section-1 {
+        padding-top: 309px;
+        padding-bottom: 175px;
+    }
+    
+    
+}
